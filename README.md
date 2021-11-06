@@ -1,11 +1,13 @@
 ## About
 
-I'm a student who enjoys web development. Creator of https://jaw.gg
+I'm a student and a hobbyist web developer. Creator of https://jaw.gg
 
 ![Stats: Overview](https://github.com/DocRevive/github-stats/blob/master/generated/overview.svg)
 ![Stats: Languages](https://github.com/DocRevive/github-stats/blob/master/generated/languages.svg)
 
 https://jaw.gg/revive
+
+https://codewars.com/users/DocRevive
 
 ## Contact
 
